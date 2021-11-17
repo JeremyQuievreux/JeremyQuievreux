@@ -46,6 +46,7 @@
 
 <p align="left">
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.linuxadictos.com/wp-content/uploads/Android-Studio-Logo.png.webp" alt="figma" width="100" height="40"/> </a>
 </p>
 
 <h4>Other</h4>
