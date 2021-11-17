@@ -2,8 +2,6 @@
 
 <h3>Front-end developer</h3>
 
-- 👯 I’m looking to collaborate on **for a next project**
-
 <h3 align="left">Languages and Tools:</h3>
 
 <h4>Frontend Development</h4>
