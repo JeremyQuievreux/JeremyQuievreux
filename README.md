@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jérémy</h1>
+<h1 align="center">Hi 👋, my name is Jérémy, I'm a Junior Fullstack Developer JS</h1>
 
-<h3>Developpeur Fullstack JS Junior</h3>
+<h3></h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
