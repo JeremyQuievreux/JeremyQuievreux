@@ -18,7 +18,7 @@
 <h4>Backend Development</h4>
 
 <p align="left">
-<a href="https://nodejs.org" target="_blank"> <img src="https://innovationyourself.com/wp-content/uploads/2020/08/nodejs-logo.png" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://innovationyourself.com/wp-content/uploads/2020/08/nodejs-logo.png" alt="nodejs" width="100" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://1qkeyv41u1op36vgbm47q0i6-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/ExpressJS.png" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://miro.medium.com/max/648/1*iDvsmUwzZQxJSKdL0xzwIA.png" alt="nodejs" width="80" height="40"/> </a>
 </p>
