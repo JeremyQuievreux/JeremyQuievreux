@@ -46,7 +46,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.linuxadictos.com/wp-content/uploads/Android-Studio-Logo.png.webp" alt="figma" width="100" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://binmile.com/wp-content/uploads/2021/05/206-2063294_the-postman-logo-is-available-in-png-svg.jpg" alt="figma" width="100" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/59452120?s=280&v=4" alt="figma" width="100" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/59452120?s=280&v=4" alt="figma" width="40" height="40"/> </a>
   
   
   
