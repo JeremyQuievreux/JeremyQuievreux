@@ -48,7 +48,7 @@
 
 <p align="left">
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.ambient-it.net/wp-content/uploads/2016/12/android_studio-logo-175.png" alt="logo android studio" width="120" height="90"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.ambient-it.net/wp-content/uploads/2016/12/android_studio-logo-175.png" alt="logo android studio" width="110" height="90"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="figma" width="80" height="80"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/59452120?s=280&v=4" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
