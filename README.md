@@ -47,11 +47,11 @@
 <h4>Tools</h4>
 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank"> <img src="http://www.kenwalger.com/twitter_cards/mongodb-compass.png" alt="git" width="80" height="80"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.ambient-it.net/wp-content/uploads/2016/12/android_studio-logo-175.png" alt="logo android studio" width="110" height="90"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="figma" width="80" height="80"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/59452120?s=280&v=4" alt="figma" width="80" height="80"/> </a>
+<a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=controlhterms&utm_source=google&utm_campaign=gs_emea_france_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624521&adgroup=115749705063&gclid=CjwKCAiA7dKMBhBCEiwAO_crFG9_RSwRbogezzhe7iDO2DTUEpF3vnW_gbmCWDrLIfs7ReYyWBhM4RoCG2YQAvD_BwE" target="_blank"> <img src="http://www.kenwalger.com/twitter_cards/mongodb-compass.png" alt="logo mongo compass" width="80" height="80"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="logo figma" width="80" height="80"/> </a>
+<a href="https://developer.android.com/studio?hl=fr&gclid=CjwKCAjwj42UBhAAEiwACIhADrNKFeK1EYvynJkMOJWzFXQrXwplZ81gF-nSDEZMc-NPAwDDsQ_JTRoChMUQAvD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://www.ambient-it.net/wp-content/uploads/2016/12/android_studio-logo-175.png" alt="logo android studio" width="110" height="90"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="logo postman" width="80" height="80"/> </a>
+<a href="https://excalidraw.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/59452120?s=280&v=4" alt="logo excalidraw" width="80" height="80"/> </a>
   
   
   
@@ -60,7 +60,7 @@
 
 <h4>Versioning </h4>
 <p>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="figma" width="80" height="80"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="logo git" width="80" height="80"/> </a>
+<a href="https://desktop.github.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="logo github desktop" width="80" height="80"/> </a>
 </p>
 </details>
