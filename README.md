@@ -14,12 +14,9 @@
 
 <h4>Backend Development</h4>
 
-<a href="" target="_blank"> <img src="" alt="" width="75" height="75"/></a>
-<a href="" target="_blank"> <img src="" alt="" width="75" height="75"/></a>
 <p align="left">
-<a href="https://nodejs.org" target="_blank"> <img src="https://camo.githubusercontent.com/15dd709f7fc70fbec79d2b2ab510f8657122a622e26eafd493db65178d9c31b2/68747470733a2f2f7777772e6a65666670686f746f2e66722f77702d636f6e74656e742f75706c6f6164732f323032322f30312f6b697373706e672d736173732d6e706d2d636173636164696e672d7374796c652d7368656574732d6e6f64652d6a732d736173732d35623337383163653837633835332e393233333934323131353330333634333636353536322e706e67" alt="nodejs" width="100" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://1qkeyv41u1op36vgbm47q0i6-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/ExpressJS.png" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://miro.medium.com/max/648/1*iDvsmUwzZQxJSKdL0xzwIA.png" alt="nodejs" width="80" height="40"/> </a>
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://camo.githubusercontent.com/b05502314be6203c494788cf027292c3a91aad41b7ccb75cb6a2c6ba31d9b126/68747470733a2f2f7777772e6a65666670686f746f2e66722f77702d636f6e74656e742f75706c6f6164732f323032312f31322f6b697373706e672d6e6f64652d6a732d616e67756c61726a732d72656163742d6a6176617363726970742d6e706d2d6e6f64652d6a732d35623238663631313562666634382e393130313131333431353239343131303839333736382e706e67" alt="logo node" width="75" height="75"/></a>
+<a href="" target="_blank"> <img src="" alt="" width="75" height="75"/></a>
 </p>
 
 <h4>Mobile App Developpment</h4>
