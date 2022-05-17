@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, my name is Jérémy, I'm a JS Fullstack Developer</h1>
 
-<h4 align="center">Frontend Development</h4>
+<h2 align="center">Frontend Development</h2>
 
 <p align="left">
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"> <img src="https://camo.githubusercontent.com/170f18f5210fdb72cf8caa4b2619e64783c72382284ed4736af5953e9ae7b33b/68747470733a2f2f7777772e6a65666670686f746f2e66722f77702d636f6e74656e742f75706c6f6164732f323032312f31322f6c6f676f2d673962356636373362365f3634302e706e67" alt="logo html" width="80" height="80"/></a>
@@ -12,7 +12,7 @@
 <a href="https://fr.reactjs.org/" target="_blank"> <img src="https://camo.githubusercontent.com/a3ef27d5bd9413fe6a435a8407f6913ad8aa0d600de7f01972d76f5d29dc65da/68747470733a2f2f7777772e70696e636c69706172742e636f6d2f7069636469722f6269672f3533372d353337343038395f72656163742d6a732d6c6f676f2d636c69706172742e706e67" alt="logo react" width="80" height="75"/></a>
 </p>
 
-<h4>Backend Development</h4>
+<h2>Backend Development</h2>
 
 <p align="left">
 
@@ -22,20 +22,20 @@
 <a href="https://expressjs.com/fr/" target="_blank"> <img src="https://camo.githubusercontent.com/446dad04fdee1cc9b4b1e8f7c32722997c3089af1dee16cd5484796a925e069b/68747470733a2f2f656767686561642e696f2f5f6e6578742f696d6167653f75726c3d68747470732533412532462532466432656970397366336f6f3663322e636c6f756466726f6e742e6e657425324674616773253246696d6167657325324630303025324630303025324633353925324666756c6c253246657870726573736a736c6f676f2e706e6726773d33383426713d3735" alt="logo express" width="75" height="75"/></a>
 </p>
 
-<h4>Mobile App Developpment</h4>
+<h2>Mobile App Developpment</h2>
 
 <p align="left">
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="logo react Native" width="80" height="80"/> </a>
 </p>
 
-<h4>Database</h4>
+<h2>Database</h2>
 
 <p align="left">
 <a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=controlhterms&utm_source=google&utm_campaign=gs_emea_france_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624521&adgroup=115749705063&gclid=CjwKCAiA7dKMBhBCEiwAO_crFG9_RSwRbogezzhe7iDO2DTUEpF3vnW_gbmCWDrLIfs7ReYyWBhM4RoCG2YQAvD_BwE" target="_blank"> <img src="https://camo.githubusercontent.com/6f7b5dae458697cdd350b6d478034c5d9e260c2bfc581ce47595f96bd7c73f46/68747470733a2f2f7777772e6a65666670686f746f2e66722f77702d636f6e74656e742f75706c6f6164732f323032312f31322f5058504e472e434f4d426173652d64652d646f6e6ec3a965732d6f7269656e74c3a9652d646f63756d656e742d4d6f6e676f44422d4e6f53514c2d6963c3b46e652d6e6f73716c2d61666661697265732d636572636c652d363030783630302d312e706e67" alt="logo mongodb" width="80" height="80"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://ih1.redbubble.net/image.489553250.2202/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" alt="logo firebase" width="75" height="75"/></a>
 </p>
 
-<h4>Backend as a Service(BaaS)</h4>
+<h2>Backend as a Service(BaaS)</h2>
 
 <p align="left">
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="logo heroku" width="80" height="80"/> </a>
@@ -44,8 +44,7 @@
 <a href="https://scalingo.com/fr/blog/nouvelle-marque-scalingo" target="_blank"> <img src="https://www.influxdata.com/wp-content/uploads/Scalingo.png" alt="logo scalingo" width="80" height="80"/> </a>
 </p>
 
-<h4>Tools</h4>
-
+<h2>Tools</h2>
 <p align="left">
 <a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=controlhterms&utm_source=google&utm_campaign=gs_emea_france_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624521&adgroup=115749705063&gclid=CjwKCAiA7dKMBhBCEiwAO_crFG9_RSwRbogezzhe7iDO2DTUEpF3vnW_gbmCWDrLIfs7ReYyWBhM4RoCG2YQAvD_BwE" target="_blank"> <img src="http://www.kenwalger.com/twitter_cards/mongodb-compass.png" alt="logo mongo compass" width="80" height="80"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="logo figma" width="80" height="80"/> </a>
@@ -58,7 +57,7 @@
 
 </p>
 
-<h4>Versioning </h4>
+<h2>Versioning </h2>
 <p>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="logo git" width="80" height="80"/> </a>
 <a href="https://desktop.github.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="logo github desktop" width="80" height="80"/> </a>
