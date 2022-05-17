@@ -20,7 +20,6 @@
 <img src="https://camo.githubusercontent.com/b05502314be6203c494788cf027292c3a91aad41b7ccb75cb6a2c6ba31d9b126/68747470733a2f2f7777772e6a65666670686f746f2e66722f77702d636f6e74656e742f75706c6f6164732f323032312f31322f6b697373706e672d6e6f64652d6a732d616e67756c61726a732d72656163742d6a6176617363726970742d6e706d2d6e6f64652d6a732d35623238663631313562666634382e393130313131333431353239343131303839333736382e706e67" alt="logo node" width="75" height="75"/>
 </a>
 <a href="https://expressjs.com/fr/" target="_blank"> <img src="https://camo.githubusercontent.com/446dad04fdee1cc9b4b1e8f7c32722997c3089af1dee16cd5484796a925e069b/68747470733a2f2f656767686561642e696f2f5f6e6578742f696d6167653f75726c3d68747470732533412532462532466432656970397366336f6f3663322e636c6f756466726f6e742e6e657425324674616773253246696d6167657325324630303025324630303025324633353925324666756c6c253246657870726573736a736c6f676f2e706e6726773d33383426713d3735" alt="logo express" width="75" height="75"/></a>
-<a href="" target="_blank"> <img src="" alt="" width="75" height="75"/></a>
 </p>
 
 <h4>Mobile App Developpment</h4>
@@ -45,23 +44,17 @@
 <a href="https://scalingo.com/fr/blog/nouvelle-marque-scalingo" target="_blank"> <img src="https://www.influxdata.com/wp-content/uploads/Scalingo.png" alt="logo scalingo" width="80" height="80"/> </a>
 </p>
 
-<h4>Software</h4>
+<h4>Tools</h4>
 
 <p align="left">
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.linuxadictos.com/wp-content/uploads/Android-Studio-Logo.png.webp" alt="figma" width="100" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://binmile.com/wp-content/uploads/2021/05/206-2063294_the-postman-logo-is-available-in-png-svg.jpg" alt="figma" width="100" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.ambient-it.net/wp-content/uploads/2016/12/android_studio-logo-175.png" alt="logo android studio" width="80" height="80"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="figma" width="80" height="80"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/59452120?s=280&v=4" alt="figma" width="40" height="40"/> </a>
-  
-  
-  
-
-</p>
-
-<h4>Other</h4>
-
-<p align="left">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+  
+  
+  
 
+</p>
 </details>
