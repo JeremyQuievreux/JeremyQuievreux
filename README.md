@@ -33,9 +33,7 @@
 
 <p align="left">
 <a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=controlhterms&utm_source=google&utm_campaign=gs_emea_france_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624521&adgroup=115749705063&gclid=CjwKCAiA7dKMBhBCEiwAO_crFG9_RSwRbogezzhe7iDO2DTUEpF3vnW_gbmCWDrLIfs7ReYyWBhM4RoCG2YQAvD_BwE" target="_blank"> <img src="https://camo.githubusercontent.com/6f7b5dae458697cdd350b6d478034c5d9e260c2bfc581ce47595f96bd7c73f46/68747470733a2f2f7777772e6a65666670686f746f2e66722f77702d636f6e74656e742f75706c6f6164732f323032312f31322f5058504e472e434f4d426173652d64652d646f6e6ec3a965732d6f7269656e74c3a9652d646f63756d656e742d4d6f6e676f44422d4e6f53514c2d6963c3b46e652d6e6f73716c2d61666661697265732d636572636c652d363030783630302d312e706e67" alt="logo mongodb" width="80" height="80"/> </a>
-
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://ih1.redbubble.net/image.489553250.2202/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" alt="logo firebase" width="75" height="75"/></a>
-
 </p>
 
 <h4>Backend as a Service(BaaS)</h4>
@@ -44,6 +42,7 @@
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="logo heroku" width="80" height="80"/> </a>
 <a href="https://www.netlify.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="logo netlify" width="80" height="80"/> </a>
 <a href="https://vercel.com/?utm_source=google&utm_medium=cpc&utm_campaign=17166484772&utm_campaign_id=17166484772&utm_term=vercel&utm_content=134252114617_596484707963&gclid=CjwKCAjwj42UBhAAEiwACIhADhA1BaFPUM5pUeA7qliVjKV7Nxk6Tc6p-BkOsJZsO2tTpLeAlpzeSBoCHAgQAvD_BwE" target="_blank"> <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" alt="logo vercel" width="80" height="80"/> </a>
+<a href="https://scalingo.com/fr/blog/nouvelle-marque-scalingo" target="_blank"> <img src="https://www.influxdata.com/wp-content/uploads/Scalingo.png" alt="logo scalingo" width="80" height="80"/> </a>
 </p>
 
 <h4>Software</h4>
@@ -53,7 +52,6 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.linuxadictos.com/wp-content/uploads/Android-Studio-Logo.png.webp" alt="figma" width="100" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://binmile.com/wp-content/uploads/2021/05/206-2063294_the-postman-logo-is-available-in-png-svg.jpg" alt="figma" width="100" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/59452120?s=280&v=4" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.influxdata.com/wp-content/uploads/Scalingo.png" alt="figma" width="40" height="40"/> </a>
   
   
   
