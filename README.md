@@ -18,8 +18,6 @@
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://camo.githubusercontent.com/b05502314be6203c494788cf027292c3a91aad41b7ccb75cb6a2c6ba31d9b126/68747470733a2f2f7777772e6a65666670686f746f2e66722f77702d636f6e74656e742f75706c6f6164732f323032312f31322f6b697373706e672d6e6f64652d6a732d616e67756c61726a732d72656163742d6a6176617363726970742d6e706d2d6e6f64652d6a732d35623238663631313562666634382e393130313131333431353239343131303839333736382e706e67" alt="logo node" width="75" height="75"/></a>
 <a href="https://expressjs.com/fr/" target="_blank"> <img src="https://camo.githubusercontent.com/446dad04fdee1cc9b4b1e8f7c32722997c3089af1dee16cd5484796a925e069b/68747470733a2f2f656767686561642e696f2f5f6e6578742f696d6167653f75726c3d68747470732533412532462532466432656970397366336f6f3663322e636c6f756466726f6e742e6e657425324674616773253246696d6167657325324630303025324630303025324633353925324666756c6c253246657870726573736a736c6f676f2e706e6726773d33383426713d3735" alt="logo express" width="75" height="75"/></a>
 <a href="" target="_blank"> <img src="" alt="" width="75" height="75"/></a>
-<a href="" target="_blank"> <img src="" alt="" width="75" height="75"/></a>
-<a href="" target="_blank"> <img src="" alt="" width="75" height="75"/></a>
 </p>
 
 <h4>Mobile App Developpment</h4>
@@ -31,7 +29,9 @@
 <h4>Database</h4>
 
 <p align="left">
-<a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=controlhterms&utm_source=google&utm_campaign=gs_emea_france_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624521&adgroup=115749705063&gclid=CjwKCAiA7dKMBhBCEiwAO_crFG9_RSwRbogezzhe7iDO2DTUEpF3vnW_gbmCWDrLIfs7ReYyWBhM4RoCG2YQAvD_BwE" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png" alt="mongo" width="100" height="40"/> </a>
+<a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=controlhterms&utm_source=google&utm_campaign=gs_emea_france_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624521&adgroup=115749705063&gclid=CjwKCAiA7dKMBhBCEiwAO_crFG9_RSwRbogezzhe7iDO2DTUEpF3vnW_gbmCWDrLIfs7ReYyWBhM4RoCG2YQAvD_BwE" target="_blank"> <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="mongo" width="80" height="80"/> </a>
+<a href="" target="_blank"> <img src="https://ih1.redbubble.net/image.489553250.2202/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" alt="logo firebase" width="75" height="75"/></a>
+
 </p>
 
 <h4>Backend as a Service(BaaS)</h4>
