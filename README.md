@@ -5,7 +5,8 @@
 <h4>Frontend Development</h4>
 
 <p align="left">
-<a href="https://nodejs.org" target="_blank"> <img src="https://camo.githubusercontent.com/170f18f5210fdb72cf8caa4b2619e64783c72382284ed4736af5953e9ae7b33b/68747470733a2f2f7777772e6a65666670686f746f2e66722f77702d636f6e74656e742f75706c6f6164732f323032312f31322f6c6f676f2d673962356636373362365f3634302e706e67" alt="logo html" width="80" height="80"/>
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"> <img src="https://camo.githubusercontent.com/170f18f5210fdb72cf8caa4b2619e64783c72382284ed4736af5953e9ae7b33b/68747470733a2f2f7777772e6a65666670686f746f2e66722f77702d636f6e74656e742f75706c6f6164732f323032312f31322f6c6f676f2d673962356636373362365f3634302e706e67" alt="logo html" width="80" height="80"/>
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"> <img src="https://camo.githubusercontent.com/ae5921220887665b70a7e118c6fc10fd425d9f4e401c0f85542542d883aa926e/68747470733a2f2f7777772e6a65666670686f746f2e66722f77702d636f6e74656e742f75706c6f6164732f323032312f31322f6c6f676f2d676339396131643739635f3634302e706e67" alt="logo html" width="80" height="80"/>
 
 </p>
 
